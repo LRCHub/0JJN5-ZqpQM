@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "おそろしく愛すべき子供たち",
+  "base_artist": "sooogood!",
+  "createdAt": "2026-03-13T13:34:36.754507Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おそろしく愛すべき子供たち",
+      "artist": "sooogood!",
+      "has_synced": false,
+      "path": "select/pl_01_おそろしく愛すべき子供たち_sooogood!.txt"
+    }
+  ]
+}
